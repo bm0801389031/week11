@@ -1,0 +1,14 @@
+pseudo
+
+input 
+a string with a single int 'i am 6'
+
+function
+
+output
+'i am 6' = 6
+
+1. //function declaration named getAge with param inputString
+
+
+2. //return parseInt method inputString as parameter

@@ -23,3 +23,14 @@ area_or_perimeter(4, 4) --> 16
 Note: for the purposes of this kata you will assume that it is a square if its length and width are equal, otherwise it is a rectangle.
 
 FUNDAMENTALS
+
+## 3 parse nice int from char
+
+Description:
+
+Ask a small girl - "How old are you?". She always says strange things... Lets help her!
+
+For correct answer program should return int from 0 to 9.
+
+Assume test input string always valid and may look like "1 year old" or "5 years old", etc.. The first char is number only.
+BUGSINTEGERSNUMBERSCHARSFUNDAMENTALS
