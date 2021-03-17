@@ -1,0 +1,21 @@
+pseudo
+
+input
+find the difference in volume between the cuboids
+
+function
+
+output 
+
+3*2*5 = a = 30
+
+1*4*4 = b = 14
+
+diff = 16
+
+
+1. //function statement named find_difference with param a, b
+
+2. //return Math.abs method with param a.reduce method acc, curr arrow 
+//function acc * cur minus b.reduce method acc, curr arrow func
+//acc * cur
