@@ -1,0 +1,13 @@
+pseudo
+
+input 
+get the number of elements of a certian letter
+
+function
+
+output
+hell0 l = 2
+
+1. //function named strCount with paramm str, letter
+
+2. //return str split withod with param letter length prop minus 1
