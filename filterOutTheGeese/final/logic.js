@@ -1,5 +1,5 @@
 //function statement named gooseFilter with parameter bird
-function gooseFilter (bird) {
+function gooseFilter (birds) {
     //variable statment named geese, these are the strings that i 
     //want to remove from my bird array. so that i get an array of
     //only goose
